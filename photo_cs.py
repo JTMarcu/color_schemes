@@ -1,3 +1,7 @@
+"""
+Extract and visualize dominant colors from an image.
+"""
+
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image

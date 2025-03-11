@@ -1,3 +1,13 @@
+'''
+extract and visualize the dominant colors from an image.
+Use Cases
+- Design and Art: Designers can use this tool to extract color palettes from images for use in their projects.
+- Data Analysis: Analysts can use it to study color distributions in images.
+- Web Development: Developers can use it to generate color schemes for websites based on images.
+- Marketing: Marketers can analyze brand colors in images for consistency.
+'''
+
+
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image

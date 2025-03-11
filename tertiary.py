@@ -1,3 +1,8 @@
+"""
+This code is a Python script that takes a hex color code as input and calculates various related colors, such as complementary, analogous, and triadic colors.
+It then prints these colors in both RGB and hex formats and plots them using Matplotlib.
+"""
+
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
